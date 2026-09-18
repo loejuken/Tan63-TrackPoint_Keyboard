@@ -12,4 +12,3 @@ I may make a version 2 of the case before uploading to update some design choice
 
 Will upload finished images after final soldering fixes are done. Waiting for time to visit my makerspace nearby.
 I've been a bit busy with school
-
