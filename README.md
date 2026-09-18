@@ -1,6 +1,6 @@
-#Tan63
+## Tan63
 
-Building a Trackpoint HHKB Mechanical Keyboard
+# Building a Trackpoint HHKB Mechanical Keyboard
 
 AKA The ultimate larper keyboard for maximizing productivity
 ... but ending up just making everything more complicated lol
