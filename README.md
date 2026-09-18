@@ -5,6 +5,7 @@ Building a Trackpoint HHKB Mechanical Keyboard
 
 AKA The ultimate larper keyboard for maximizing productivity
 ... but ending up just making everything more complicated lol
+
 I love this project though
 
 PCB, Case, and plate are finished. Case and plate CAD files will be uploaded at some point.
